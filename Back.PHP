@@ -9,6 +9,6 @@
     <h1><?php echo "Bem-vindo à minha página em PHP!"; ?></h1>
     <p><?php echo "Hoje é " . date("d/m/Y") . "."; ?></p>
     <p><?php echo "alterado no github"; ?></p>
-    <p><?php echo "outra alteração"; ?></p>
+    <p><?php echo "alterado no github"; ?></p>
 </body>
 </html>
